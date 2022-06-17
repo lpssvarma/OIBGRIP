@@ -1,2 +1,2 @@
-# OIBGRIP
-Oasis Infobyte
+# Oasis-infobye-task1
+Calculator
